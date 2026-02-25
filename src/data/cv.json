@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Ante Dominik Milicevic",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/ante-dominik-milicevic/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/milicevicante"
+      },
+      {
+        "network": "X",
+        "url": "https://x.com/antedominik"
+      }
+    ],
+    "email": "antedominikmilicevic@gmail.com",
+    "citizenship": "EU (Croatian)",
+    "dateOfBirth": "2001-07-15"
+  },
+  "education": [
+    {
+      "institution": "Technical University (TU Wien)",
+      "url": "https://www.tuwien.at/en/",
+      "location": "Vienna, Austria",
+      "studyType": "Master of Science",
+      "area": "Data Science",
+      "startDate": "2023-10",
+      "endDate": "2026-07",
+      "endDateNote": "expected",
+      "highlights": [
+        "Major: Machine Learning and Statistics",
+        "Relevant Courses: Machine Learning, Recommender Systems, Advanced Methods for Regression and Classification, Data oriented Programming Paradigms, Data-intensive Computing, Medical Image Processing"
+      ]
+    },
+    {
+      "institution": "FER (University of Zagreb)",
+      "url": "https://www.fer.unizg.hr/en/studies/bachelor/computing",
+      "location": "Croatia",
+      "studyType": "Bachelor of Science",
+      "area": "Computer Science",
+      "startDate": "2020-09",
+      "endDate": "2023-07",
+      "thesis": {
+        "title": "The use of Numerical Weather Prediction (NWP) models for weather prediction",
+        "url": "https://repozitorij.fer.unizg.hr/en/islandora/object/fer%3A10932",
+        "grade": "1.0/1.0"
+      },
+      "highlights": [
+        "Relevant Courses: Algorithms and Data Structures, Object Oriented Programming, Artificial Intelligence, Information Theory"
+      ]
+    },
+    {
+      "institution": "III. Gymnasium",
+      "location": "Zagreb, Croatia",
+      "studyType": "High School",
+      "area": "Department of Mathematics and Natural Science (Matura Exam)",
+      "startDate": "2016-09",
+      "endDate": "2020-07"
+    }
+  ],
+  "work": [
+    {
+      "name": "Complexity Science Hub",
+      "url": "https://csh.ac.at/",
+      "location": "Vienna, Austria",
+      "position": "Visiting Student",
+      "startDate": "2025-12",
+      "endDate": null,
+      "summary": "Working on Embedding Networks from Austrian Hospital Data to Map Disease Trajectories."
+    },
+    {
+      "name": "Technical University (TU Wien)",
+      "url": "https://www.tuwien.at/en/",
+      "location": "Vienna, Austria",
+      "position": "Graduate Research Assistant, Machine Learning",
+      "startDate": "2025-11",
+      "endDate": null,
+      "summary": "Working on matrix-variate statistical methods for noise filtering and dimension reduction of GCxGC-MS data supervised by Prof. Peter Filzmoser."
+    },
+    {
+      "name": "Technical University (TU Wien)",
+      "url": "https://www.tuwien.at/en/",
+      "location": "Vienna, Austria",
+      "position": "Teaching Assistant",
+      "startDate": "2024-09",
+      "endDate": "2026-03",
+      "summary": "Academic tutor for courses Multivariate Statistics and Advanced Methods for Regression and Classification. In charge of exercises for 300+ students (using R)."
+    },
+    {
+      "name": "Medical University of Vienna",
+      "url": "https://www.meduniwien.ac.at/web/en/",
+      "location": "Vienna, Austria",
+      "position": "Research Intern",
+      "startDate": "2025-03",
+      "endDate": "2025-12",
+      "summary": "Worked on detecting breast cancer in its early stages using state-of-the-art AI models (Anomalib) at CIR Lab.",
+      "department": {
+        "name": "Computational Imaging Research Lab (CIR)",
+        "url": "https://radiologie-nuklearmedizin.meduniwien.ac.at/unsere-abteilungen/computational-imaging-research-lab-cir/"
+      }
+    },
+    {
+      "name": "SeneCura Group",
+      "url": "https://www.senecura.at",
+      "location": "Vienna, Austria",
+      "position": "Data Scientist",
+      "startDate": "2024-12",
+      "endDate": "2025-11",
+      "summary": "Implemented RAG and LLM model that reduced employee time spent searching through large amounts of data."
+    }
+  ],
+  "volunteering": [
+    {
+      "organization": "ACAP",
+      "url": "https://croampro.com",
+      "location": "United States",
+      "position": "Member",
+      "startDate": "2025-02",
+      "endDate": null
+    },
+    {
+      "organization": "Lumos Student Data Consulting",
+      "url": "https://lumos-consulting.at",
+      "location": "Vienna, Austria",
+      "position": "Data Science Member",
+      "startDate": "2023",
+      "endDate": "2025"
+    },
+    {
+      "organization": "EESTEC LC Zagreb",
+      "url": "https://eestec.net/cities/zagreb",
+      "location": "Zagreb, Croatia",
+      "position": "Software Engineering Member",
+      "startDate": "2020",
+      "endDate": "2023"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Future of Accounting",
+      "date": "2022-11",
+      "summary": "3rd place out of 10 teams."
+    },
+    {
+      "title": "STEM Scholarship",
+      "url": "https://stemstipendije.mzom.hr/",
+      "date": "2020/2021",
+      "summary": "Top 1% in mathematics at matura exam."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fields of Research",
+      "keywords": [
+        "Machine Learning",
+        "Deep Learning",
+        "Statistical Computing",
+        "Medical Imaging",
+        "Predictive Modeling"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "R",
+        "SQL",
+        "C/C++",
+        "Java",
+        "Matlab"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Scikit-learn",
+        "Numpy",
+        "Pandas",
+        "Seaborn",
+        "Matplotlib",
+        "Anomalib"
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "keywords": [
+        "Statistics",
+        "Linear Algebra",
+        "Analysis",
+        "Probability"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Croatian",
+      "fluency": "native"
+    },
+    {
+      "language": "German",
+      "fluency": "basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Watches"
+    },
+    {
+      "name": "Tennis"
+    },
+    {
+      "name": "Hiking"
+    }
+  ]
+}
