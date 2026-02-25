@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/milicevicante.github.io/", 
+  base: "/",
 
   server: {
     host: "::",
@@ -14,10 +14,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
 
-  plugins: [
-    react(),
-    mode === "development" && componentTagger()
-  ].filter(Boolean),
+  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
 
   resolve: {
     alias: {
